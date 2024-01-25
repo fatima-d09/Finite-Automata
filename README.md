@@ -1,6 +1,10 @@
 # Finite-Automata
 Finite automata are simple computing “devices” that recognize patterns.
 
+- They are 2 types of Finite automata:
+  1. Deterministic Finite automata (DFA): At any given point, there is only one possible next state for a given input symbol.
+  2. Non-deterministic Finite automata (NFA):  There can be multiple paths the automaton may take for a given input. The acceptance criteria are based on the existence of at least one computation path leading to an accepting state.
+
 
 
 # ┬┴┤´❛ᴥ❛`ʔฅ HOW TO RUN PROJECT ┬┴┤´❛ᴥ❛`ʔฅ 
@@ -27,7 +31,11 @@ THIS PROJECT WAS MADE ON VSCODE, COMPILED AND TESTED THE CODE IN CMD, ON A COMPU
 - My code was ran through valgrind, and I received no errors. A couple of memory leaks are left, and they continue to ANNOY me to this day ┗(｀O ´)┛. 
 	- It also said that memory leaks were the exception in regards to errors through valgrind.
 
-- I could not figure out part 3 for the life of me (sorry); it was so hard (⩺_⩹)! All my efforts were futile, but alas I shall be successful for the next project (In sha Allah).
+- I could not figure out how to translate an NFA into a DFA for the life of me; it was so hard (⩺_⩹)! All my efforts were futile, but alas I shall be successful for the next project (In sha Allah).
+
+
+
+Made By: Fatima Dembele
 
 
 
