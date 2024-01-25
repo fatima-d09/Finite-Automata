@@ -1,9 +1,6 @@
 # Finite-Automata
 Finite automata are simple computing “devices” that recognize patterns.
 
-Fatima Dembele
-fdembele@u.rochester.edu
-Net Id: fdembele / 32107296
 
 
 # ┬┴┤´❛ᴥ❛`ʔฅ HOW TO RUN PROJECT ┬┴┤´❛ᴥ❛`ʔฅ 
