@@ -25,8 +25,7 @@ THIS PROJECT WAS MADE ON VSCODE, COMPILED AND TESTED THE CODE IN CMD, ON A COMPU
 
 # PROJECT NOTES:
 
-- For my input alphabet, instead of using the 128 ASCII characters, I mapped it to 53 integers (0-25 = uppercase (ABC...XYZ), 26-51 = lowercase (abc..xyz), 52 & 53 = binary 1 & 0)
-	- In the project pdf, It said that this way ok to do, and that I just notify the TA that I did this. 
+- For my input alphabet, instead of using the 128 ASCII characters, I mapped it to 53 integers (0-25 = uppercase (ABC...XYZ), 26-51 = lowercase (abc..xyz), 52 & 53 = binary 1 & 0) 
 
 - My code was ran through valgrind, and I received no errors. A couple of memory leaks are left, and they continue to ANNOY me to this day ┗(｀O ´)┛. 
 	- It also said that memory leaks were the exception in regards to errors through valgrind.
