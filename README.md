@@ -7,7 +7,7 @@ Finite automata are simple computing “devices” that recognize patterns.
 
 
 
-# ┬┴┤´❛ᴥ❛`ʔฅ HOW TO RUN PROJECT ┬┴┤´❛ᴥ❛`ʔฅ 
+#  ┬┴┤´❛ᴥ❛`ʔฅ HOW TO RUN PROJECT ┬┴┤´❛ᴥ❛`ʔฅ 
 
 THIS PROJECT WAS MADE ON VSCODE, COMPILED AND TESTED THE CODE IN CMD, ON A COMPUTER 🏃 ON WINDOWS 10. 
 
