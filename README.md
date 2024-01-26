@@ -30,7 +30,7 @@ THIS PROJECT WAS MADE ON VSCODE, COMPILED AND TESTED THE CODE IN CMD, ON A COMPU
 - My code was ran through valgrind, and I received no errors. A couple of memory leaks are left, and they continue to ANNOY me to this day ┗(｀O ´)┛. 
 	- It also said that memory leaks were the exception in regards to errors through valgrind.
 
-- I could not figure out how to translate an NFA into a DFA for the life of me; it was so hard (⩺_⩹)! All my efforts were futile, but alas I shall be successful for the next project (In sha Allah).
+- I could not figure out how to translate an NFA into a DFA for the life of me; it was so hard (⩺_⩹)! All my efforts were futile, but alas I shall be successful next time (In sha Allah).
 
 
 
